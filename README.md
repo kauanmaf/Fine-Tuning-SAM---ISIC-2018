@@ -2,7 +2,7 @@
 
 Alunos: Kauan Mariani Ferreira, Pedro Henrique Coterli e Samuel Corrêa Lima
 
-Link para o vídeo com a apresentação: https://youtu.be/y18fYMNpD8c
+Link para o vídeo com a apresentação: https://youtu.be/lktScoNo9k4
 
 Este repositório contém a implementação do fine-tuning do **Segment Anything Model (SAM)** para a tarefa de segmentação de lesões de pele, utilizando o dataset do **ISIC 2018 Challenge**.
 
