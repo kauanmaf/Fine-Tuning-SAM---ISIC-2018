@@ -2,7 +2,7 @@
 
 Alunos: Kauan Mariani Ferreira, Pedro Henrique Coterli e Samuel Corrêa Lima
 
-Link para o vídeo com a apresentação: https://www.youtube.com/watch?v=fj4puIaGy1o
+Link para o vídeo com a apresentação: https://youtu.be/y18fYMNpD8c
 
 Este repositório contém a implementação do fine-tuning do **Segment Anything Model (SAM)** para a tarefa de segmentação de lesões de pele, utilizando o dataset do **ISIC 2018 Challenge**.
 
@@ -10,7 +10,7 @@ Este repositório contém a implementação do fine-tuning do **Segment Anything
 
 - `sam-model.ipynb` — Notebook com a implementação principal, o processo de fine-tuning e a avaliação do modelo.
 - `README.md` — Este arquivo, com a descrição detalhada do projeto.
-
+ 
 ---
 
 # Descrição do Experimento: Fine-Tuning do SAM
